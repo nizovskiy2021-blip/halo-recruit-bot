@@ -3,7 +3,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, Con
 from datetime import datetime
 import os
 
-TOKEN = "8625749011:AAG5hH14s7Ymw4aYqPT1Sdfmkv1gPf8d6NI"
+TOKEN = "8625749011:AAHY10HTQ0wA0gGXJHI2sVVf1KsNIUF2i1sRQ"
 ADMIN_ID = 8555892705
 
 LANGUAGE, NAME, USERNAME, PHOTO = range(4)
